@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<conciliacao conta="0001-1">
+    <lancamento data="05/08/2026" tipo="CREDITO" valor="150.00"/>
+    <lancamento data="06/08/2026" tipo="DEBITO" valor="40.00"/>
+    <lancamento data="07/08/2026" tipo="TARIFA" valor="3.00"/>
+    <total>107.00</total>
+    <assinatura>MDAwMS0xfDEwNy4wMHwz</assinatura>
+</conciliacao>
